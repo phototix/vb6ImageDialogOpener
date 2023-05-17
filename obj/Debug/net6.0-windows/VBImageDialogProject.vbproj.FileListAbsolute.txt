@@ -1,0 +1,17 @@
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\bin\Debug\net6.0-windows\VBImageDialogProject.exe
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\bin\Debug\net6.0-windows\VBImageDialogProject.deps.json
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\bin\Debug\net6.0-windows\VBImageDialogProject.runtimeconfig.json
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\bin\Debug\net6.0-windows\VBImageDialogProject.dll
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\bin\Debug\net6.0-windows\VBImageDialogProject.pdb
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.vbproj.AssemblyReference.cache
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.Form1.resources
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.vbproj.GenerateResource.cache
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.AssemblyInfoInputs.cache
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.AssemblyInfo.vb
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.vbproj.CoreCompileInputs.cache
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.dll
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\refint\VBImageDialogProject.dll
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.pdb
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\VBImageDialogProject.genruntimeconfig.cache
+C:\Users\BrandonChong\source\repos\VBImageDialogProject\obj\Debug\net6.0-windows\ref\VBImageDialogProject.dll
