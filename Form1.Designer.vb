@@ -24,6 +24,7 @@ Partial Class Form1
     Private Sub InitializeComponent()
         PictureBox1 = New PictureBox()
         Button1 = New Button()
+        Button2 = New Button()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -37,18 +38,28 @@ Partial Class Form1
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(275, 409)
+        Button1.Location = New Point(166, 409)
         Button1.Name = "Button1"
         Button1.Size = New Size(236, 29)
         Button1.TabIndex = 1
         Button1.Text = "Select Image"
         Button1.UseVisualStyleBackColor = True
         ' 
+        ' Button2
+        ' 
+        Button2.Location = New Point(419, 409)
+        Button2.Name = "Button2"
+        Button2.Size = New Size(220, 29)
+        Button2.TabIndex = 2
+        Button2.Text = "Turn Off Always OnTop"
+        Button2.UseVisualStyleBackColor = True
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(Button2)
         Controls.Add(Button1)
         Controls.Add(PictureBox1)
         Name = "Form1"
@@ -59,4 +70,5 @@ Partial Class Form1
 
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents Button1 As Button
+    Friend WithEvents Button2 As Button
 End Class
