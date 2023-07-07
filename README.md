@@ -7,6 +7,6 @@ Open any image file into a window dialog
 1) Change to using .NET for window apps development. Due to alots library no longer in uses.
 
 ## Screenshots
-![Main Screen]([http://url/to/img.png](https://github.com/phototix/vb6ImageDialogOpener/blob/main/2023-07-07%2010_51_21-PictureDisplay.jpg)
+![Main Screen](https://github.com/phototix/vb6ImageDialogOpener/blob/main/2023-07-07%2010_51_21-PictureDisplay.jpg)
 
 ## Please enjoy.
